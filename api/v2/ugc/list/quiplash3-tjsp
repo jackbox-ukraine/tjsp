@@ -4,8 +4,17 @@
     "listId": "quiplash3-tjsp",
     "entries": [
       {
+        "contentId": "JMEMNFB",
+        "author": "JB UA",
+        "title": "Веселого Різдва!",
+        "description": "Ялинку вже поставили, кутю приготували, можемо й зіграти у різдвяний Сміхрясь!",
+        "locale": "en",
+        "type": "",
+        "published": "2024-12-22T17:31:00Z"
+      },
+      {
         "contentId": "PLTVNGS",
-        "author": "Jackbox Ukraine",
+        "author": "JB UA",
         "title": "Ігровий епізод",
         "description": "Разом з Ігровим Фольклористом підготували для вас питання на ігрову тематику.",
         "locale": "en",
@@ -14,7 +23,7 @@
       },
       {
         "contentId": "YSXCSZP",
-        "author": "Jackbox Ukraine",
+        "author": "JB UA",
         "title": "Дитячі вечорниці",
         "description": "Дитячий епізод. ДОРОСЛИМ ВХІД ЗАБОРОНЕНО!",
         "locale": "en",
